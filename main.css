@@ -1,0 +1,19 @@
+/* body {
+    justify-content: center;
+} */
+.container-fluid {
+    padding: 10px;
+    max-width: 100%;
+}
+
+#add-topic {
+    background-color: lightsalmon;
+}
+
+.left-side {
+    background-color: blueviolet;
+}
+
+.right-side {
+    background-color: aqua;
+}
